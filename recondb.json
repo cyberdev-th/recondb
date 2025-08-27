@@ -1,0 +1,18 @@
+[
+    {
+        "ip": "10.0.0.1",
+        "portas": [
+            "22",
+            "3389"
+        ],
+        "notas": "Servidor windows"
+    },
+    {
+        "ip": "10.0.0.2",
+        "portas": [
+            "80",
+            "443"
+        ],
+        "notas": "Servidor Linux Web"
+    }
+]
