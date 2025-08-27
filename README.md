@@ -18,9 +18,8 @@ Nenhuma biblioteca externa é necessária, apenas módulos da biblioteca padrão
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/MyReconDB.git](https://github.com/SEU_USUARIO/MyReconDB.git)
+    git clone [https://github.com/cyberdev-th/MyReconDB.git](https://github.com/cyberdev-th/MyReconDB.git)
     ```
-    *(Lembre-se de trocar `SEU_USUARIO` pelo seu nome de usuário no GitHub)*
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
